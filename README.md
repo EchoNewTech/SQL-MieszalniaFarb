@@ -25,6 +25,7 @@ Projekt przedstawia relacyjną bazę danych zaprojektowaną dla punktu produkcyj
 6. PRACOWNICY: Dane personelu z podziałem na stanowiska (Manager, Doradca, Technolog, Pracownik).
 7. ZAMOWIENIA: Centralna tabela procesowa łącząca wszystkie aspekty systemu.
 W celu optymalizacji wydajności zaimplementowano indeksy na kluczowych kolumnach: NAZWISKO klienta, BAZA_ID w recepturach oraz identyfikatorach w zamówieniach.
+<img width="621" height="629" alt="image" src="https://github.com/user-attachments/assets/264b4363-14fe-47b4-b539-7d36e3d98368" />
 
 ## Przykładowe Raporty
 W pliku `raporty.sql` znajdują się zapytania:
